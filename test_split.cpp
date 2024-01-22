@@ -1,5 +1,6 @@
 /*
 CSCI 104: Homework 1 Problem 1
+1/22/24
 
 Use this file to test your split.cpp file.
 
