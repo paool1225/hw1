@@ -120,7 +120,7 @@ class ULListStr {
    *   - MUST RUN in O(n) 
    */
   std::string* getValAtLoc(size_t loc) const;
-
+  void addBack(const std::string& val); 
 
   /**
    * Data members
